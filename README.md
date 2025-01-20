@@ -77,9 +77,10 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone o repositório para sua máquina.
 2. Abra o projeto no seu editor de código preferido.
 3. No terminal, navegue até o diretório do projeto.
-4. Execute o comando `npm install` para instalar as dependências.
-5. Inicie o servidor de desenvolvimento com `npm run dev`.
-6. Acesse `http://localhost:3000` no seu navegador para visualizar o projeto.
+4. crie um arquivo .env e utilize uma chave publica do Gemini IA, guardando na variavel 'GEMINI_API_KEY'
+5. Execute o comando `npm install` para instalar as dependências.
+6. Inicie o servidor de desenvolvimento com `npm run dev`.
+7. Acesse `http://localhost:3000` no seu navegador para visualizar o projeto.
 
 
 ## Como Usar
