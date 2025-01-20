@@ -6,7 +6,7 @@
   "objetivos":"Meu objetivos para o futuro conquistar minha casa propria e ajudar ainda mais meus familiares, aumentar ainda mais meu conhecimento na area de programação",
   "planos":"Meu plano para o futuro é aprofundar meus conhecimentos em programação para web e novas tecnologias, utilizando a plataforma da Alura como principal recurso de aprendizado. Além disso, desejo expandir meu entendimento na área financeira para aprimorar minhas habilidades e conhecimentos.",
   "conquistas":"Minhas maiores conquistas foram concluir a faculdade na FATEC, conquistar um emprego na área que gosto muito de atuar e alcançar estabilidade financeira.",
-  "habilidades": [
+  "habilidades profissionais": [
     "PHP",
     "MySQL",
     "Laravel",
@@ -14,6 +14,19 @@
     "CSS",
     "Bootstrap",
     "JavaScript"
+  ],
+"habilidades interpessoais": [
+    "Boa comunicação",
+    "Trabalho em equipe",
+    "Adaptabilidade",
+    "Proatividade",
+    "Organização",
+    "Resolução de problemas",
+    "Empatia",
+    "Criatividade",
+    "Capacidade de aprendizado contínuo",
+    "Comprometimento",
+    "Flexibilidade"
   ],
   "cursos": {
     "4Linux": [
