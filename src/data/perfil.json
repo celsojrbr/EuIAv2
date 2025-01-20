@@ -1,0 +1,133 @@
+{
+  "nome": "Aparecido Celso De Souza Junior",
+  "profissao": "Programador Web",
+  "sobre": "Desenvolvedor web com mais de 10 anos de experiência em PHP, MySQL e HTML, com habilidades sólidas em Programação Orientada a Objetos (POO). Atuei em manutenção e desenvolvimento de sites dinâmicos, criação de páginas de gerenciamento de conteúdo e otimização de processos. Durante minha trajetória no Anima Instituto e no Instituto ProEduca, foquei em entregar soluções eficientes para sistemas educacionais e institucionais. Sou certificado em tecnologias essenciais para o desenvolvimento web, incluindo JavaScript, jQuery, SEO e Segurança em PHP. Agora, como autônomo, comecei a trabalhar em muitos projetos junto a outras equipes e diferentes empresas, o que tem ampliado ainda mais minhas habilidades. Graduado em Desenvolvimento de Jogos Digitais pela Faculdade de Tecnologia de Carapicuíba, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.",
+  "Pretencao_salaria":"minha pretenção salarial para trabalhar como PJ: R$ 6700,00 e para CLT:R$ 7500,00",
+  "objetivos":"Meu objetivos para o futuro conquistar minha casa propria e ajudar ainda mais meus familiares, aumentar ainda mais meu conhecimento na area de programação",
+  "planos":"Meu plano para o futuro é aprofundar meus conhecimentos em programação para web e novas tecnologias, utilizando a plataforma da Alura como principal recurso de aprendizado. Além disso, desejo expandir meu entendimento na área financeira para aprimorar minhas habilidades e conhecimentos.",
+  "conquistas":"Minhas maiores conquistas foram concluir a faculdade na FATEC, conquistar um emprego na área que gosto muito de atuar e alcançar estabilidade financeira.",
+  "habilidades": [
+    "PHP",
+    "MySQL",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript"
+  ],
+  "cursos": {
+    "4Linux": [
+      "Desenvolvimento Enterprise com PHP",
+      "Desenvolvimento Orientado a Objetos com PHP",
+      "Desenvolvimento Web com PHP",
+      "Segurança em PHP"
+    ],
+    "Alura": [
+      "SEO Expert (30h)",
+      "Laravel",
+      "HTML5",
+      "PHP - Orientação a Objetos com Classes, Métodos e Atributos",
+      "CSS",
+      "Bootstrap",
+      "Microsoft SQL Server",
+      "Microsoft Word",
+      "PowerPoint",
+      "Photoshop",
+      "Microsoft Excel",
+      "Corel Draw",
+      "Eclipse",
+      "JavaScript",
+      "Let's Encrypt",
+      "SEO (Otimização de motores de busca)"
+    ],
+    "Etec Ermelinda Giannini Teixeira": [
+      "Técnico em Informática"
+    ],
+    "Fatec": [
+      "Unity3D",
+      "Maya",
+      "VB.NET",
+      "Blender",
+      "Java",
+      "Python",
+      "Dev C++",
+      "Linux"
+    ],
+    "Escola Jardins": [
+      "GIMP"
+    ]
+  },
+  "projetos": [
+    {
+      "nome": "CCPL Barueri",
+      "descricao": "Os Centros de Capacitação Profissional e Lazer - CCPL Barueri são mantidos pela Prefeitura Municipal de Barueri através da Secretaria de Assistência e Desenvolvimento Social - SADS. Em julho de 2023, o Instituto Sempre Vita assumiu a administração, operacionalização e gerenciamento das seis unidades. Com uma nova proposta e novos cursos, agora a população passa a contar com 38 cursos e atividades gratuitas, com opções ideais para pessoas de todas as idades. Além disso, nestes espaços públicos contam com playground, quadras poliesportivas, quadra de futebol society, jardim, pista de caminhada, espaço cyber com computadores conectados à internet, brinquedoteca e amplos espaços comuns. Todos esses ambientes são supervisionados por monitores e recreadores, garantindo a segurança de todos e muita diversão para as crianças. Para bem receber e acolher os alunos e munícipes, os CCPLs de Barueri contam ainda com uma equipe psicossocial, formada por assistentes sociais e psicólogas, que realizam orientações e encaminhamentos à rede municipal, sempre que necessário.",
+      "url": "https://ccplbarueri.com.br"
+    },
+    {
+      "nome": "Grupo Sempre Vita",
+      "descricao": "O Grupo Sempre Vita é uma organização social sem fins lucrativos que atua no segmento de gestão em saúde, educação e assistência social. Fundada em 28 de agosto de 2009, iniciou seus trabalhos na área de promoção nutricional, especialmente focada no apoio e tratamento a pacientes em terapia nutricional e seus familiares. Através de parcerias, propomos ações de análise e identificação situacional, planejamento, implantação e implementação de melhorias da qualidade nos processos operacionais e das boas práticas de gestão dos serviços de saúde, educação e assistência social, auxiliando instituições públicas e privadas a definir um modelo que associe qualidade e resolutividade. Por meio de contratos de gestão, propomos inovações, exigindo um elenco de compromissos como o bom atendimento, produtividade, segurança dos processos assistenciais e melhoria contínua das ações implementadas. Nesses dez anos de história e de resultados expressivos, conseguimos cumprir com competência e efetividade as metas estabelecidas em nossos contratos de parceria, sem perder de vista o foco na melhoria contínua da qualidade dos serviços, buscando proporcionar o cuidado digno em saúde através de práticas inovadoras em gestão.",
+      "url": "https://gruposemprevita.org.br"
+    },
+    {
+      "nome": "Jornal NC",
+      "descricao": "O Jornal NC é distribuído gratuitamente. São 10.000 jornais impressos e mais de 25.000 jornais digitais que são enviados por email, chegando às principais cidades de duas importantes regiões metropolitanas do estado de São Paulo: Grande São Paulo; e Vale do Paraíba e Litoral Norte. Grande São Paulo: Barueri e Santana de Parnaíba, onde está localizado o distrito de Alphaville; Carapicuíba e Cotia, onde está situado o distrito da Granja Viana; além das cidades de Osasco, Jandira, Itapevi e região. Vale do Paraíba e Litoral Norte: São José dos Campos, Taubaté, Jacareí, Pindamonhangaba, Caçapava, Caraguatatuba, Ubatuba e região.",
+      "url": "https://jornalnc.com"
+    }
+  ],
+  "contatos": {
+    "LinkedIn": "https://www.linkedin.com/in/aparecido-celso-de-s-junior/",
+    "GitHub": "https://github.com/"
+  },
+  "experiencia": [
+    {
+      "empresa": "Autônomo ",
+      "cargo": "Programador Web com PHP",
+      "periodo": "jun de 2023 - Atual",
+      "descricao": "Responsável pela manutenção e otimização de sites em PHP e MySQL, garantindo segurança e desempenho. Desenvolvimento de páginas para gerenciamento de conteúdo, aplicando boas práticas de SEO para melhorar a visibilidade nos mecanismos de busca. Administração e atualização de conteúdo em plataformas web, utilizando tecnologias como HTML5, CSS, Bootstrap e JavaScript. Experiência em programação orientada a objetos, bancos de dados relacionais e implementação de certificados de segurança."
+    },
+    {
+      "empresa": "Anima Instituto",
+      "cargo": "Programador Web com PHP",
+      "periodo": "ago de 2017 - jun de 2023",
+      "descricao": "Responsável pela manutenção e otimização de sites em PHP e MySQL, garantindo segurança e desempenho. Desenvolvimento de páginas para gerenciamento de conteúdo, aplicando boas práticas de SEO para melhorar a visibilidade nos mecanismos de busca. Administração e atualização de conteúdo em plataformas web, utilizando tecnologias como HTML5, CSS, Bootstrap e JavaScript. Experiência em programação orientada a objetos, bancos de dados relacionais e implementação de certificados de segurança."
+    },
+    {
+      "empresa": "Instituto ProEduca",
+      "cargo": "Programador Web com  PHP",
+      "periodo": "mar de 2014 - ago de 2017",
+      "descricao": "Responsável pela manutenção e otimização de sites em PHP e MySQL, garantindo segurança e desempenho. Desenvolvimento de páginas para gerenciamento de conteúdo, aplicando boas práticas de SEO para melhorar a visibilidade nos mecanismos de busca. Administração e atualização de conteúdo em plataformas web, utilizando tecnologias como HTML5, CSS, Bootstrap e JavaScript. Experiência em programação orientada a objetos, bancos de dados relacionais e implementação de certificados de segurança."
+    },
+    {
+      "empresa": "Escola Info Jardins",
+      "cargo": "Instrutor de Informática ",
+      "periodo": "jan de 2013 - mar de 2014",
+      "descricao": "Ensinar informática básica para alunos de varia idades, fazer manutenção no laboratório de aula pratica, lançar notas e presenças no sistema Ensinar"
+    },
+    {
+      "empresa": "ML Serviços Financeiros",
+      "cargo": "Telemarketing",
+      "periodo": "jan de 2012 - mai de 2012",
+      "descricao": "Cobra cartão de credito da finivest"
+    }	
+  ],
+  "educacao":[
+	{
+	"curso":"Tecnólogo em Jogos Digitais, Desenvolvimento de Jogos Digitais",
+	"instituicao":"Faculdade de Tecnologia de Carapicuíba",
+	"periodo":"2012 - 2017"
+	}
+  ],
+  "hobbies":[
+    "Programa coisa divertidas",
+    "assistir animes",
+    "ler mangas",
+    "jogar",
+    "ir em eventos nerds",
+    "Cultura Geek"
+  ],
+  "datanascimento":	"08/05/1993",
+  "endereço":"avenida das conchas, 56, Santana de parnaiba. CEP:06535-205",
+  "idade":"31",
+  "cor":"Parda",
+  "cor da pele":"Parda"
+}
