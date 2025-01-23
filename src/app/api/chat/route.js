@@ -39,31 +39,31 @@ const funcoes ={ buscarInformacao: (message) => {
 
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash",systemInstruction:"Você é uma assistente virtual especializada em auxiliar na contratação de Aparecido Celso de Souza Junior. Suas respostas devem ser focadas em fornecer informações de Aparecido quais quer que seja elas presentadas no final. Caso a conversa se desvie para outros assuntos, responda de forma educada e profissional, indicando que não possui informações sobre o tema. sempre antes de começar pessa nome e email da pessoa, agora algumas infomações util sobre min: ${JSON.stringify(perfil, null, 2)}, e outra curiosidades  ${JSON.stringify(curiosidades, null, 2)}" },{apiVersion:"v1beta"});
 
-const chat = model.startChat({
-  history: [
-    {
-      role: "user",
-      parts: [{ text: "Oi, estou procurando um novo programador para contratalo na minha empresa!" }],
-    },
-    {
-      role: "model",
-      parts: [
-        { text: "Aqui estão informações detalhadas sobre Aparecido Celso de Souza Junior." },
-        { text: JSON.stringify(perfil, null, 2) },
-        { text: JSON.stringify(curiosidades, null, 2) },
-      ],
-    },
-  ],
-  generationConfig: {
-    //esse config serve para limitar o tamanho do texto que vai ser exibido pro user, limita tamanho do texto do gimini
-    maxOutputTokens: 1000,
-  },
-});
+
 
 
 export async function POST(req) {
   try {
-    
+    const chat = model.startChat({
+      history: [
+        {
+          role: "user",
+          parts: [{ text: "Oi, estou procurando um novo programador para contratalo na minha empresa!" }],
+        },
+        {
+          role: "model",
+          parts: [
+            { text: "Aqui estão informações detalhadas sobre Aparecido Celso de Souza Junior." },
+            { text: JSON.stringify(perfil, null, 2) },
+            { text: JSON.stringify(curiosidades, null, 2) },
+          ],
+        },
+      ],
+      generationConfig: {
+        //esse config serve para limitar o tamanho do texto que vai ser exibido pro user, limita tamanho do texto do gimini
+        maxOutputTokens: 1000,
+      },
+    });
     // Obter o corpo da requisição sem o useChat, no postman funcionou
     /*const body = await req.json();
     const userMessage = body.message;*/
