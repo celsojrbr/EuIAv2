@@ -11,9 +11,13 @@ export default function ChatBubble({ message, onRemove, isUser = false }  ) {
       <div className={styles.bubble}>
         <ReactMarkdown>{message}</ReactMarkdown>
         <div>
-          <Button variant={isUser ? 'secondary' : 'primary'} onClick={onRemove} >
-            Remover <IconClose fill={isUser ? '#C5C5C5' : '#222222'} />
-          </Button>
+        {!isUser ? (
+            <>
+              <Button variant={isUser ? 'secondary' : 'primary'} onClick={() => onRemove()}>
+                Refazer <IconClose fill={isUser ? '#C5C5C5' : '#222222'} />
+              </Button>
+            </>
+          ) : null}
         </div>
       </div>
     </div>
